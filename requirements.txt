@@ -1,5 +1,5 @@
 numpy
-scikit-learn
+scikit-learn==1.2.2
 streamlit
 streamlit-option-menu
-imbalanced-learn
+imbalanced-learn==0.10.1
